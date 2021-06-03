@@ -1,0 +1,4 @@
+﻿  ClientC.cpp
+D:\13.12.2020\FromDesktop\Лаби\Lessons-master\CourseWork3\Client\ClientC\ClientC.cpp(58,30): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\13.12.2020\FromDesktop\Лаби\Lessons-master\CourseWork3\Client\ClientC\ClientC.cpp(65,30): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  ClientC.vcxproj -> D:\13.12.2020\FromDesktop\Лаби\Lessons-master\CourseWork3\Client\x64\Debug\ClientC.exe
